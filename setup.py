@@ -24,6 +24,6 @@ setuptools.setup(
         "pillow",
         "requests",
 
-        "git+https://github.com/AdamantLife/AL_Decorators",
+        "al-decorators @ git+https://github.com/AdamantLife/AL_Decorators",
         ]
 )
